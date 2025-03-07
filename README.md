@@ -2,7 +2,7 @@
 
 A modern e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-![StoringFleet Homepage](./client/public/screenshot.png)
+![StoringFleet Homepage](/ecommerce_app/client/public/screenshot.png)
 
 ## Features
 
